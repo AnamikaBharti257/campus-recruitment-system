@@ -40,7 +40,7 @@ const ApplicantsList = () => {
 
   const handleDownloadResume = (resumeUrl) => {
     if (resumeUrl) {
-      window.open(`http://localhost:5000${resumeUrl}`, '_blank');
+      window.open(`${import.meta.env.VITE_API_URL}${resumeUrl}`, '_blank');
     } else {
       toast.info('Resume not available');
     }
