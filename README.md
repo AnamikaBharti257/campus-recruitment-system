@@ -13,7 +13,7 @@ A MERN stack web application that simplifies the campus placement process by con
 React.js, Node.js, Express.js, MongoDB, JavaScript, JWT
 
 ### Live Demo
-- **Frontend:** [https://campus-recruitment-system-frontend.onrender.com](#)
+- **Frontend:** [https://campus-recruitment-system-frontend.onrender.com/](#)
 - **Backend:** [https://campus-recruitment-system-backend.onrender.com](#)
 
 ### GitHub
